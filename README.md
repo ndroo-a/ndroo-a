@@ -9,13 +9,7 @@
 <h2> Connect with Me:</h2>
 
 <a href="https://www.linkedin.com/in/andreu-austraw"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/roo0"><img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3910606" /></a>
-
-
-
-
-[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png?_a=DATAg1AAZAA0" />][tryhackme]
-[tryhackme]: https://tryhackme.com/p/roo0
+<a href="https://tryhackme.com/p/roo0"><img src="https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logoColor=white" /></a>
 
 
 <!--
