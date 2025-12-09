@@ -9,9 +9,9 @@
 <h2> Connect with Me:</h2>
 
 <a href="https://www.linkedin.com/in/andreu-austraw"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="https://brandfetch.com/tryhackme.com" />][tryhackme]
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3910606" style='border:none;'></iframe>
 
-[tryhackme]: https://tryhackme.com/p/roo0
+
 
 
 <!--
