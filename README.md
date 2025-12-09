@@ -8,9 +8,13 @@
 
 <h2> Connect with Me:</h2>
 
-[<img align="left" alt="andreu-austraw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="andreu-austraw | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-linkedin-logo-dsk-v03.png/jcr:content/renditions/brandg-business-linkedin-logo-dsk-v03-2x.png" />][linkedin]
+[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="file:///C:/Users/SFU/Downloads/tryhackme.svg" />][tryhackme]
+
 
 [linkedin]: https://www.linkedin.com/in/andreu-austraw
+[tryhackme]: https://tryhackme.com/p/roo0
+
 
 <!--
 **ndroo-a/ndroo-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
