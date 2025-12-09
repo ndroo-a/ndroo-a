@@ -8,8 +8,8 @@
 
 <h2> Connect with Me:</h2>
 
-[<img align="left" alt="andreu-austraw | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-linkedin-logo-dsk-v03.png/jcr:content/renditions/brandg-business-linkedin-logo-dsk-v03-2x.png" />][linkedin]
-[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="https://svgicons.com/icon/190330/tryhackme" />][tryhackme]
+[<img align="left" alt="andreu-austraw | LinkedIn" width="22px" src="C:\Users\SFU\AppData\Local\Temp\4a363467-125d-4973-8b2e-b9c85d1ae3c7_in-logo.zip.3c7\in-logo\InBug-Black.png" />][linkedin]
+[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="https://brandfetch.com/tryhackme.com" />][tryhackme]
 
 
 [linkedin]: https://www.linkedin.com/in/andreu-austraw
