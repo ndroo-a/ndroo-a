@@ -14,7 +14,7 @@
 
 
 
-[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="https://brandfetch.com/tryhackme.com" />][tryhackme]
+[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png?_a=DATAg1AAZAA0" />][tryhackme]
 [tryhackme]: https://tryhackme.com/p/roo0
 
 
