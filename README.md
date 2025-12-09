@@ -9,7 +9,7 @@
 <h2> Connect with Me:</h2>
 
 [<img align="left" alt="andreu-austraw | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-linkedin-logo-dsk-v03.png/jcr:content/renditions/brandg-business-linkedin-logo-dsk-v03-2x.png" />][linkedin]
-[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="file:///C:/Users/SFU/Downloads/tryhackme.svg" />][tryhackme]
+[<img align="left" alt="andreu-austraw | TryHackMe" width="22px" src="https://svgicons.com/icon/190330/tryhackme" />][tryhackme]
 
 
 [linkedin]: https://www.linkedin.com/in/andreu-austraw
