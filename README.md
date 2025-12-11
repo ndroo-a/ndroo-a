@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andreu! <br/><a href="https://github.com/ndroo-a">Student</a>, <a href="https://www.linkedin.com/in/andreu-austraw">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Andreu! <br/><a href="https://www.linkedin.com/in/andreu-austraw">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>Cybersecurity Projects:</h2>
 -
