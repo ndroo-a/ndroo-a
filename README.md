@@ -1,10 +1,10 @@
 <h1>Hi, I'm Andreu! <br/><a href="https://www.linkedin.com/in/andreu-austraw">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>Cybersecurity Projects:</h2>
--<a href="https://github.com/ndroo-a/Precious-Report">Precious Report</a>
--<a href="https://github.com/ndroo-a/Mantooth-Report">Mantooth Report</a>
--<a href="https://github.com/ndroo-a/Washer-Report">Washer Report</a>
--<a href="https://github.com/ndroo-a/Clampet-Report">Clampet Report</a>
+-<a href="https://github.com/ndroo-a/Precious-Report">Precious Report</a><br/>
+-<a href="https://github.com/ndroo-a/Mantooth-Report">Mantooth Report</a><br/>
+-<a href="https://github.com/ndroo-a/Washer-Report">Washer Report</a><br/>
+-<a href="https://github.com/ndroo-a/Clampet-Report">Clampet Report</a><br/>
 
 <h2>Certifications:</h2>
 -
