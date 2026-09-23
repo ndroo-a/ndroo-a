@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/andreu-austraw"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/roo0"><img src="https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logoColor=white" /></a>
-
+<a href="https://profile.hackthebox.com/profile/01a0cf86-606f-70fd-a156-1107263a34bd?utm_medium=copy_url"><img src="https://img.shields.io/badge/Hack%20The%20Box%20-%20%239FEF00?style=flat&logo=Hack%20The%20Box&logoColor=white" /></a>
 
 <!--
 **ndroo-a/ndroo-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
