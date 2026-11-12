@@ -6,6 +6,8 @@
 -<a href="https://github.com/ndroo-a/Washer-Report">Washer Report</a><br/>
 -<a href="https://github.com/ndroo-a/Clampet-Report">Clampet Report</a>
 
+-<a href="https://github.com/cs3club/yabe-linux">CS3 Yabe Linux (db-01 infrastructure)</a>
+
 <h2>Personal Projects</h2>
 -<a href= "https://github.com/ndroo-a/Lone-Ronin">Lone Ronin</a><br/>
 
